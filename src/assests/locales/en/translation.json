@@ -1,0 +1,40 @@
+{
+    "Home": {
+        "title": "Share the world with your friends",
+        "main": "Chat app lets you connect with the world",
+        "button": "Get Started"
+    },
+    "Login": {
+        "email": "Email address",
+        "email_main": "We'll never share your email with anyone else.",
+        "password": "Password",
+        "main": "Don't have an account ?",
+        "main2": "Signup",
+        "button": "Login"
+    },
+    "signUp": {
+        "button": "SignUp",
+        "button2": "Signing you up...",
+        "page": "Create account",
+        "name": "Name",
+        "main": "Already have an account ?",
+        "main2": "Login"
+    },
+    "chat": {
+        "title": "Available rooms",
+        "main": "Members",
+        "offline": "Offline",
+        "you": "You",
+        "message_title": "Please Login ",
+        "message_input": "Your Message",
+        "title-conv":"your conversation with"
+    },
+    "nav":{
+    "chat": "Chat",
+    "change": "Change Password",
+    "logout": "Logout"      
+    },
+    "picture":"please upload your profile picture",
+    "changepass_confirm": "Confirm Password",
+    "change_submit": "Submit"
+}
